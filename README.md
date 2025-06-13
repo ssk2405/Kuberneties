@@ -1,1 +1,1 @@
-"#Kuberneties creating pods and deployments" 
+"#Kuberneties :)" 
