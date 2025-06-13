@@ -1,0 +1,10 @@
+apiversion:
+Kind: Pod
+metadata: 
+  name: nginx-pod-2
+  labels:
+    env: test
+spec:
+  container: 
+  - name: nginx-container
+    image: nginx:latest
